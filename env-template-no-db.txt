@@ -2,7 +2,7 @@
 # Copy these to your Vercel environment variables
 
 # Admin Authentication
-ADMIN_PASSWORD="your-secure-admin-password-here"
+ADMIN_PASSWORD="admin123"
 
 # Allowed Users (JSON array)
 ALLOWED_USERS='[
