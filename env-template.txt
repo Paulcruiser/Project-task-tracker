@@ -2,4 +2,4 @@
 DATABASE_URL="postgresql://neondb_owner:npg_zN0YxB9dGtAT@ep-damp-poetry-adoyppw4-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
 
 # Admin Authentication
-ADMIN_PASSWORD="your-secure-admin-password-here"
+ADMIN_PASSWORD="admin123"
